@@ -1,0 +1,186 @@
+{
+  "Programming languages": [
+    {
+      "skill_name": "Python",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "R",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "SQL",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "SAS",
+      "expertise_level": "●●●○○"
+    },
+    {
+      "skill_name": "Bash/cmd",
+      "expertise_level": "●●●○○"
+    },
+    {
+      "skill_name": "Git",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "SAS",
+      "expertise_level": "●●○○○"
+    }
+  ],
+  "ML/DL libraries": [
+    {
+      "skill_name": "TensorFlow",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "PyTorch",
+      "expertise_level": "●●●○○"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Keras",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "XGBoost",
+      "expertise_level": "●●●●●"
+    }
+  ],
+  "Data Parsing": [
+    {
+      "skill_name": "Pandas",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "NumPy",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Regex",
+      "expertise_level": "●●●○○"
+    }
+  ],
+  "Dataviz libraries": [
+    {
+      "skill_name": "Plotly",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Seaborn",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Matplotlib",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Follium",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Yellowbrick",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "ggplot",
+      "expertise_level": "●●●●●"
+    }
+  ],
+  "Dataviz software": [
+    {
+      "skill_name": "Tableau",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Power BI",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "COGNOS",
+      "expertise_level": "●●●●○"
+    }
+  ],
+  "Databases (libraries)": [
+    {
+      "skill_name": "PySpark",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "IBM db2",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "MySQL",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "SQLite",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Teradata",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Snowflake",
+      "expertise_level": "●●●●○"
+    }
+  ],
+  "Design and Documentation": [
+    {
+      "skill_name": "EER",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "UML",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "LaTeX",
+      "expertise_level": "●●●○○"
+    },
+    {
+      "skill_name": "Jupyter Notebook",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Google Collab",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Streamlit",
+      "expertise_level": "●●●○○"
+    }
+  ],
+  "Other/miscelenious": [
+    {
+      "skill_name": "Version Control (Conda/pip)",
+      "expertise_level": "●●●●○"
+    },
+    {
+      "skill_name": "Imblearn",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "LaTeX",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "Lifetimes",
+      "expertise_level": "●●●●●"
+    },
+    {
+      "skill_name": "LangChain",
+      "expertise_level": "●●●●○"
+    }
+  ]
+}

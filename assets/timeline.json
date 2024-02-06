@@ -1,0 +1,323 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "media": {
+        "url": "https://tse3.mm.bing.net/th?id=OIP.JxT_EjKI05ESDm5WYgWZCQHaEc&pid=Api&P=0&h=220",
+        "credit": "ZSEM"
+      },
+      "text": {
+        "headline": "ZSEM General MBA",
+        "text": "The Zagreb School of Economics and Management needs not much introduction. According to AACSB it is in the top 5% of business schools worldwide. QS Global ranking wise, its MBA program is in the top 200. During my General MBA here, I completed a one year ERASMUS at KU Leuven. "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "9"
+      },
+      "media": {
+        "url": "https://tse2.mm.bing.net/th?id=OIP.wEj2qQeOb9reNX2hnj2YlgHaE7&pid=Api&P=0&h=220",
+        "credit": "KU Leuven"
+      },
+      "text": {
+        "headline": "MsC Business Economics at KU Leuven",
+        "text": "KU Leuven is the best University of Belgium and the 42nd in the world according to Times Ranking. My major was in Marketing and minor in Strategy. My thesis was recreating an experiment and using a video-game as the prime. Analysis wise it featured an 2*2 ANOVA with mediation/moderation analysis "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2021"
+      },
+      "media": {
+        "url": "https://tse1.mm.bing.net/th?id=OIP.48D19EDovDqUczsXpmQFOwHaE6&pid=Api&P=0&h=220",
+        "credit": "KU Leuven"
+      },
+      "text": {
+        "headline": "MsC Information Management at KU Leuven",
+        "text": "This degree was completed during the COVID pandemic and i am especially prideful of it not only becuase it showcases my tenacity in hard times but also because it allowed me to explore my developer side. I led the team that won the first runner-up of the thesis competition for utilizing POI feature engineering in enhancing the predictive power of an ML model geared towards mass price predictions."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2022"
+      },
+      "media": {
+        "url": "https://tse4.mm.bing.net/th?id=OIP.rhp9kuTIXSXI_WKHKPhivQHaLH&pid=Api&P=0&h=220",
+        "caption": "Accenture",
+        "credit": "Accenture"
+      },
+      "text": {
+        "headline": "Functional Data integration analyst",
+        "text": "During my time at Accenture I worked on comparing the outputs of SAP Hana and Snowflake to ensure the data quality of the cloud-transfer the client wanted to complete. With that I was a member of the internal ART; AI in Finance. Certification wise, I completed the Azure fundamentals and Azure Data Fundamentals, along with internal trainings in PowerBI."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023"
+      },
+      "media": {
+        "url": "https://tse1.mm.bing.net/th?id=OIP.w2RALE2Uf6ilKbE1FtV3wgHaE7&pid=Api&P=0&h=220",
+        "credit": "KBC"
+      },
+      "text": {
+        "headline": "Functional Analyst",
+        "text": "KBC is the largest bank in Belgium. I joined for the Graduate Program and completed the first cycle of straight through processing by implementing a python script to generate SQL queries to automate the discovery of nulls in Teradata. The databasae itself was instrumental in providing reporting to governmental agencies."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": 1
+      },
+      "media": {
+        "url": "https://tse4.mm.bing.net/th?id=OIP.odowjIRu1vEi0tzhrsv-fQHaHa&pid=Api&P=0&h=220"
+
+      },
+      "text": {
+        "headline": "Generative Pre-trained Transformers",
+        "text": "In \"Generative Pre-trained Transformers\" by Glasgow University, I mastered the art of crafting text with AI. I dug into GPT models, built my own, and explored their uses."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "1"
+      },
+      "media": {
+        "url": "https://images.credly.com/size/680x680/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png"
+      },
+      "text": {
+        "headline": "Generative AI for data scientists",
+        "text": "- Generative AI savvy: Recognized real-world applications and identified popular generative AI tools for text, code, image, audio, and video.\n- Prompt engineering pro: Understood generative AI prompt engineering concepts, tools, and techniques to create effective prompts.\n- Data augmentation specialist: Applied generative AI prompts to generate and augment datasets, enhancing machine learning model development."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "11"
+      },
+      "media": {
+        "url": "https://images.credly.com/size/680x680/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png"
+      },
+      "text": {
+        "headline": "IBM AI Engineering",
+        "text": "- ML fundamentals: Grasped the core concepts of machine learning, deep learning, neural networks, and popular ML algorithms.\n- Supervised and unsupervised learning: Implemented supervised and unsupervised models using Scikit-learn and SciPy, demonstrating hands-on experience.\n- Apache Spark deployment: Deployed machine learning models and pipelines on Apache Spark, understanding production considerations.\n- Deep learning dabblings: Explored deep learning models and neural networks using Keras, PyTorch, and TensorFlow, laying the foundation for further exploration."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "77"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png",
+        "credit": "https://towardsdatascience.com/data-science-jobs-with-their-salaries-171acd3bf9be"
+      },
+      "text": {
+        "headline": "IBM Machine Learning",
+        "text": "- Algorithm adept: Compared and contrasted various machine learning algorithms by building recommender systems in Python.\n- KNN, PCA, and NMF master: Developed solid understanding of KNN, PCA, and non-negative matrix factorization for collaborative filtering.\n- Prediction pro: Trained neural networks, regression, and classification models to predict course ratings, showcasing model-building abilities."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "7"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/e7ee5477-69d3-49a0-a616-bfbe928da4bb/image.png",
+        "credit": "https://towardsdatascience.com/data-science-jobs-with-their-salaries-171acd3bf9be"
+      },
+      "text": {
+        "headline": "People and Soft Skills for Professional and Personal Success",
+        "text": "- I learned: the art of crafting impactful presentations that resonate with audiences, leaving a lasting impression.\n- I became a collaboration champion, building positive relationships and enhancing my reputation through effective communication with peers. I actively listen, ask insightful questions, and foster understanding for collaborative success.\n- I mastered applying active listening and questioning to explore issues, enhance understanding, and collaboratively resolve problems. I effectively work in agile environments, contributing to team success while achieving personal growth."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "6"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png",
+        "credit": "https://towardsdatascience.com/data-science-jobs-with-their-salaries-171acd3bf9be"
+      },
+      "text": {
+        "headline": "IBM Data Science",
+        "text": "- Data wrangling whiz: Adept at importing, cleaning, and preparing data for analysis using industry-standard Python and SQL tools.\n- Visualization virtuoso: Crafted compelling data visualizations that effectively communicate insights and trends.\n- Machine learning enthusiast: Gained foundational knowledge in building machine learning models and pipelines, eager to further explore this domain."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "6"
+      },
+      "media": {
+        "url": "https://images.credly.com/size/680x680/images/779d8ac4-440d-4a92-8735-064960922f56/image.png",
+        "credit": "https://pngtree.com/freepng/green-medical-record-illustration_4549315.html"
+      },
+      "text": {
+        "headline": "IBM Data Warehouse Engineer",
+        "text": "- ETL expert: Mastered various ETL techniques to efficiently move and transform data across IBM DB2, MySQL, and PostgreSQL.\n- SQL and Python pro: Utilized Python and SQL to manipulate data directly within data warehouses, streamlining workflows.\n- Stored procedure architect: Designed and implemented stored procedures to automate complex data warehouse tasks in my final project."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "5"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png"
+      },
+      "text": {
+        "headline": "IBM Data Analyst",
+        "text": "- Visualization wizard: Focused on crafting insightful visuals using Python libraries, Cognos, and Excel. Proficient in data storytelling to present complex findings effectively.\n- Hypothesis hunter: Skilled in hypothesis testing, statistical modeling, and uncovering hidden patterns within data."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2021",
+        "month": "7"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
+      },
+      "text": {
+        "headline": "SAS Certified Specialist: Base Programming Using SAS 9.4",
+        "text": "Base Programming Specialists have passed a performance-based exam where they have completed programming assignments in SAS. They have demonstrated proficiency in reading and creating data, manipulating data with functions and formats, controlling program flow with loops and conditional statements, creating summary and frequency reports, and identifying and correcting program errors."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2021",
+        "month": "11"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+      },
+      "text": {
+        "headline": "Azure Data Essentials",
+        "text": "Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2021",
+        "month": "11"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+      },
+      "text": {
+        "headline": "Azure Fundamentals",
+        "text": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "5"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/5bd41c5a-42c7-4f8b-98bc-a4670408ba82/Data-Steward-600X600.png"
+      },
+      "text": {
+        "headline": "Tabkeau Data Steward",
+        "text": "Earners of the Tableau Data Steward badge have shown competency in their ability to fulfill the responsibilities of this role in their organization's deployment of Tableau. As a Data Steward, they ensure there are documented procedures and guidelines for data access and plan enterprise-wide data governance, control and compliance policies. (Badge retired as of August 2021)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "5"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/ca22848a-1a06-4a06-9287-c1cfb6636626/Designer-600X600.png"
+      },
+      "text": {
+        "headline": "Tabkeau Designer",
+        "text": "Earners of the Tableau Designer badge have shown competency in their ability to fulfill the responsibilities of this role in their organization's deployment of Tableau. As a Designer, they create beautiful, functional and impactful visualizations that help stakeholders across their organization absorb information quickly and easily. (This badge is retired as of August 2021) "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://images.credly.com/images/0e568f74-68e2-404e-ae25-d67fa0b5c848/Author-600X600.png"
+      },
+      "text": {
+        "headline": "Tableau Author",
+        "text": "Earners of the Tableau Author badge have shown competency in their ability to fulfill the responsibilities of this role in their organization's deployment of Tableau. As an Author, they leverage their foundational Tableau skills to make smarter business decisions more quickly by digging into available data sources to create visualizations and dashboards mostly for their own consumption. (This badge was retired as of August 2021)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://images.credly.com/size/680x680/images/c08e3457-8b19-4ddc-ab89-1a5d2aa587c1/Consumer-600X600.png"
+      },
+      "text": {
+        "headline": "Tableau Consumer",
+        "text": "Earners of the Tableau Consumer badge have shown competency in their ability to fulfill the responsibilities of this role in their organization's deployment of Tableau. As a Consumer, they use data to make more informed decisions for their line of business.(This Badge was retired as of August 2021)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "1"
+      },
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9io7Zmn_xunW5wZynIwqHOufi9Rh51pcxQ&usqp=CAU"
+      },
+      "text": {
+        "headline": "SQL for Database Administrators",
+        "text": "- Database Doctor: Gained the skills to diagnose and troubleshoot database issues, ensuring optimal performance and data integrity.\n- Security Sentinel: Learned to implement robust security measures to protect sensitive data and maintain database privacy.\n- Optimization Expert: Mastered techniques to optimize database performance and scalability, handling large datasets efficiently."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "6"
+      },
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9io7Zmn_xunW5wZynIwqHOufi9Rh51pcxQ&usqp=CAU"
+      },
+      "text": {
+        "headline": "Marketing Analytics with Python",
+        "text": "- Marketing Maverick: Leveraged Python to analyze customer behavior, marketing campaign performance, and social media data, gaining actionable insights.\n- Segmentation Specialist: Mastered techniques to segment target audiences, enabling tailored marketing campaigns for maximum impact.\n- Prediction Pro: Built predictive models to forecast customer churn, identify buying patterns, and optimize marketing spend with confidence."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "4"
+      },
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9io7Zmn_xunW5wZynIwqHOufi9Rh51pcxQ&usqp=CAU"
+      },
+      "text": {
+        "headline": "Statistician",
+        "text": "- Insights Detective: Learned to uncover hidden patterns and trends in data using advanced statistical techniques like hypothesis testing and regression analysis.\n- Modeling Mastermind: Mastered building and evaluating sophisticated statistical models to predict future outcomes and inform data-driven decisions.\n- Storytelling Specialist: Transformed complex statistical findings into clear and compelling narratives, effectively communicating insights to diverse audiences."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "1"
+      },
+      "media": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9io7Zmn_xunW5wZynIwqHOufi9Rh51pcxQ&usqp=CAU"
+      },
+      "text": {
+        "headline": "SQL for business analysts",
+        "text": "- Data Detective: Learned to query and analyze complex datasets using SQL, uncovering hidden insights to inform business decisions.\n- Visualization Virtuoso: Mastered data visualization techniques to present data insights in clear, compelling, and impactful ways.\n- Storytelling Specialist: Transformed complex data findings into actionable insights, effectively communicating to stakeholders across departments."
+      }
+    }
+  ]
+}
