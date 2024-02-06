@@ -137,7 +137,6 @@ def homepage():
     with st.container():
         st.write("---")
         st.header("Contact me")
-        st.write("##")
         contact_form = """
     <form action="https://formsubmit.co/01001bb4e55e665b727a313eb18d5438" method="POST" id="contactForm">
          <input type="text"
